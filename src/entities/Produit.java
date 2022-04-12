@@ -51,7 +51,7 @@ public class Produit {
 	}
 	public Produit() {
 		super();
-		// TODO Auto-generated constructor stub
+		// TODO Auto-generated constructor
 	}
 	
 	
